@@ -3,5 +3,5 @@
 SELECT day
 FROM 'Wochende'
 ;
-FREIHEIT FÜR Wochentage
-yabadabadou sound 
+-- FREIHEIT FÜR Wochentage
+-- yabadabadou sound 

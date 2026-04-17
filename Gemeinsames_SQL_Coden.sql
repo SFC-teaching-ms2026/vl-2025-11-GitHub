@@ -1,6 +1,7 @@
 -- Hier steht nur kommentar drin
 
-SELECT *
-FROM Wochende
+SELECT day
+FROM 'Wochende'
 ;
-FREIHEIT FÜR SEMI-COLA
+FREIHEIT FÜR Wochentage
+yabadabadou sound 

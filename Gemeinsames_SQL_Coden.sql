@@ -2,5 +2,5 @@
 
 SELECT *
 FROM Wochende
-
+;
 FREIHEIT FÜR SEMI-COLA

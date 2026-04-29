@@ -2,4 +2,4 @@
 Introduction to GitHub
 
 # Bild hinzufügen
-![Mein Katzenbild in GitHub](https://github.com/user/repo/blob/main/bild.png)
+![Mein Katzenbild in GitHub](https://github.com/SFC-teaching-ms2026/vl-2025-11-GitHub/blob/main/IMG_7352.jpg)
